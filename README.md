@@ -39,6 +39,29 @@
 > Modal Dark
 ![alt text](https://raw.githubusercontent.com/arthurgameiro/Refatoracao/master/imagens/Realizado/Dark.png)
 
+## O que está incluso
+
+```
+Refatoração/
+├── source/
+│   ├── scss/
+│   │   ├── Botao/
+│   │   │   └──index.html
+│   │   ├── Modal/
+│   │   │   ├──body.scss.html
+│   │   │   ├──footer.html
+│   │   │   ├──header.html
+│   │   │   └──modal.html
+│   │   ├── style.scss
+│   │   └── variaveis.scss
+│   └── index.html
+├── .gitignore
+├── bower.json
+├── gulpfile.js
+├── package.json
+└── README.md
+```
+
 ## Utilizado
 - [Bootstrap V4 beta 2](https://github.com/twbs/bootstrap/tree/v4.0.0-beta.2)
 - [Font Awesome  4.7.0](https://github.com/FortAwesome/Font-Awesome/tree/v4.7.0)
@@ -46,3 +69,4 @@
 - [Font Awesome 3.10.10](https://github.com/npm/npm/tree/v3.10.10)
 - [GULP 3.9.1](https://github.com/gulpjs/gulp/tree/v3.9.1)
 - SCSS
+
