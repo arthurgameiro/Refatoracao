@@ -40,9 +40,9 @@
 ![alt text](https://raw.githubusercontent.com/arthurgameiro/Refatoracao/master/imagens/Realizado/Dark.png)
 
 ## Utilizado
-- Bootstrap V4 beta 2 
-- Font Awesome  4.7.0
+- [Bootstrap V4 beta 2](https://github.com/twbs/bootstrap/tree/v4.0.0-beta.2)
+- [Font Awesome  4.7.0](https://github.com/FortAwesome/Font-Awesome/tree/v4.7.0)
 - Foundation Icons
-- NPM
-- GULP
+- [Font Awesome 3.10.10](https://github.com/npm/npm/tree/v3.10.10)
+- [GULP 3.9.1](https://github.com/gulpjs/gulp/tree/v3.9.1)
 - SCSS
