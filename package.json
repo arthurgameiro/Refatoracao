@@ -1,0 +1,30 @@
+{
+  "name": "refatoracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "curso",
+    "certificação",
+    "bootstrap"
+  ],
+  "author": "Arthur Gameiro",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^3.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "github:fortawesome/Font-Awesome",
+    "foundation-icon-fonts": "^0.1.1",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.12.3"
+  }
+}

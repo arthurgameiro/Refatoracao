@@ -1,0 +1,12 @@
+/* Modify Botão*/
+.container {
+	.btn.botao{
+			margin-top: $botao-margin-top;
+			margin-right: $botao-margin-right;
+	}
+}
+
+/* Style Botão*/
+.btn{
+	cursor: pointer;
+}

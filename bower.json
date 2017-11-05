@@ -1,0 +1,23 @@
+{
+  "name": "refatoracao",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Arthur Gameiro"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sass",
+    "curso",
+    "certificação",
+    "bootstrap"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,78 @@
+/* Modify modal-body */
+.modal-body {
+	p {
+		margin-bottom: $modal-body-margin-bottom;
+	}
+}
+
+/* Style modal-body */
+.modal-body {
+	p {
+		color: $modal-body-color;
+		font-size: $modal-body-font-size;
+	}
+}
+
+.modal-primary{
+	.modal-body{
+		h3{
+			color: $color-primary;
+		}
+	}
+}
+
+.modal-secondary{
+	.modal-body{
+		h3{
+			color: $color-secondary;
+		}
+	}
+}
+
+.modal-success{
+	.modal-body{
+		h3{
+			color: $color-success;
+		}
+	}
+}
+
+.modal-danger{
+	.modal-body{
+		h3{
+			color: $color-danger;
+		}
+	}
+}
+
+.modal-warning{
+	.modal-body{
+		h3{
+			color: $color-warning;
+		}
+	}
+}
+
+.modal-info{
+	.modal-body{
+		h3{
+			color: $color-info;
+		}
+	}
+}
+
+.modal-light{
+	.modal-body{
+		h3{
+			color: $color-light;
+		}
+	}
+}
+
+.modal-dark{
+	.modal-body{
+		h3{
+			color: $color-dark;
+		}
+	}
+}
